@@ -1,0 +1,15 @@
+{
+  "name": "Jogo_da_cobrinha",
+  "version": "1.0.0",
+  "description": "Jogo da Cobrinha",
+  "main": "index.js",
+  "scripts": {
+    "devserver": "live-server",
+    "start": "npm-run-all --parallel devserver"
+  },
+  "author": "Dheimy",
+  "license": "ISC",
+  "devDependencies": {
+    "npm-run-all": "^4.1.5"
+  }
+}
